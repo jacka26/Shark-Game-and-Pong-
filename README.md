@@ -6,9 +6,6 @@ Here is the Shark game and Pong game by Jaloob members!
 
 ## Pong Game
 
-- VScode
-- Python
-
 ### How to Run
 ### Description
 Pong is a game where two players control paddles and hit a ball back and forth across a screen. The main goal of this game is to score points by making the ball hit the other side of the screen instead of the paddle.
@@ -25,6 +22,5 @@ Pong is a game where two players control paddles and hit a ball back and forth a
 - Sound effects
 
 ### Requirements
-1. Copy and paste the code into VScode.
-2. Run the code in the VScode terminal.
-3. A game window will automatically pop up and the game will start automatically.
+- VScode
+- Python
