@@ -1,2 +1,2 @@
-# Shark-Game-and-Pong-
-Shark game and Pong game by Jaloob members!
+# Pong!
+Pong game by Jaloob members!
