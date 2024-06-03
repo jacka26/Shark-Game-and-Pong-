@@ -10,7 +10,7 @@ Here is the Shark game and Pong game by Jaloob members!
 Shark Game is a game similar to the classic snake game. The main goal of this game is to get the highest score possible before the shark collides with itself or runs into the borders.
 
 ### How to Run
-1. Copy and paste the code into VScode.
+1. Copy and paste the code into VScode and make the file a .py file.
 2. Run the code in the VScode terminal using pygame.
 3. A game window will automatically pop up and the game will start automatically.
 
@@ -35,7 +35,7 @@ Shark Game is a game similar to the classic snake game. The main goal of this ga
 Pong is a game where two players control paddles and hit a ball back and forth across a screen. The main goal of this game is to score points by making the ball hit the other side of the screen instead of the paddle.
 
 ### How to Run
-1. Copy and paste the code into VScode.
+1. Copy and paste the code into VScode and make the file a .py file.
 2. Run the code in the VScode terminal using turtle.
 3. A game window will automatically pop up and the game will start automatically.
 
