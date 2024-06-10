@@ -15,7 +15,7 @@ Shark Game is a game similar to the classic snake game. The main goal of this ga
 3. A game window will automatically pop up and the game will start automatically.
 
 ### How to Play
-- Control the shark using your WASD keys.
+- Control the shark using your arrow keys.
 - The goal is to eat as many fishes as possible.
 - The game ends when the shark collides with its body or when it runs into the borders.
 
